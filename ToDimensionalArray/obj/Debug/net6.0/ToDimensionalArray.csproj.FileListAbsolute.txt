@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\bin\Debug\net6.0\ToDimensionalArray.exe
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\bin\Debug\net6.0\ToDimensionalArray.deps.json
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\bin\Debug\net6.0\ToDimensionalArray.runtimeconfig.json
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\bin\Debug\net6.0\ToDimensionalArray.dll
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\bin\Debug\net6.0\ref\ToDimensionalArray.dll
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\bin\Debug\net6.0\ToDimensionalArray.pdb
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.AssemblyInfo.cs
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.dll
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ref\ToDimensionalArray.dll
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.pdb
+C:\Users\User\source\repos\ToDimensionalArray\ToDimensionalArray\obj\Debug\net6.0\ToDimensionalArray.genruntimeconfig.cache
